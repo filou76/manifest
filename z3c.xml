@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="filou76/android_device_sony_z3c" path="device/sony/z3c" remote="github" revision="cm-12.1"/>
-  <project name="filou76/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_sony_z3c" path="device/sony/z3c" remote="github" revision="cm-12.1"/>
+  <project name="CyanogenMod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-12.1"/>
   <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.1"/>
