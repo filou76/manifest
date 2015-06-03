@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="android_external_icu" />
-  <project name="filou76/android_external_icu4c" path="external/icu" remote="github" revision="cm-12.0" />
-  <project name="filou76/android_device_asus_tf701t" path="device/asus/tf701t" remote="github" revision="cm-12.0" />
-  <project name="filou76/android_kernel_asus_tf701t" path="kernel/asus/tf701t" remote="github" revision="cm-12.0" />
-  <project name="Pinky-Inky-and-Clyde/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0" />
+  <project name="pershoot/android_vendor_asus_tf701t" path="vendor/asus/tf701t" remote="github" revision="cm-12.1" />
+  <project name="pershoot/android_device_asus_tf701t" path="device/asus/tf701t" remote="github" revision="cm-12.1" />
+  <project name="pershoot/android_kernel_asus_tf701t" path="kernel/asus/tf701t" remote="github" revision="cm-12.1" />
 </manifest>
